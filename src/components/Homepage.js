@@ -13,11 +13,10 @@ const FirstRightText = () => (
     <a href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
 
     </a>
-    . You can also provide <code>color</code> and <code>backgroundColor</code>{' '}
-    props to suit your theme.
+    <code>CP4D</code> - <code>Managed</code>{' '}
     <a
       className={calloutLink}
-      href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/main/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
+      href="https://github.com/ibm-iacs/cp4d-managed/">
       Homepage source →
     </a>
   </p>
