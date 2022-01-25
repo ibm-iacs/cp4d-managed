@@ -5,13 +5,13 @@ import { calloutLink } from './Homepage.module.scss';
 
 import Carbon from './carbon.jpg';
 
-const FirstLeftText = () => <p>Callout component</p>;
+const FirstLeftText = () => <p>IBM Cloud Service</p>;
 
 const FirstRightText = () => (
   <p>
-    This is a callout component. You can edit the contents by updating the{' '}
+    The Cloud Service delivers Fully Managed offerings in which IBM will provide and manage the infrastructure (network, storage, and compute resources), apply fixes to the Software, and maintain the Software, infrastructure, and applicable security and privacy controls in support of Client’s Cloud Pak for Data production and/or non-production workload.{' '}
     <a href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
-      pre-shadowed homepage template
+
     </a>
     . You can also provide <code>color</code> and <code>backgroundColor</code>{' '}
     props to suit your theme.
@@ -37,7 +37,7 @@ const SecondRightText = () => (
   </p>
 );
 
-const BannerText = () => <h1>CP4d Managed Home Page</h1>;
+const BannerText = () => <h1>IBM Cloud Pak for Data ‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬- Managed </h1>;
 
 const customProps = {
   Banner: <HomepageBanner renderText={BannerText} image={Carbon} />,
