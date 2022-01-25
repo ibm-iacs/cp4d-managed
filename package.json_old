@@ -4,7 +4,6 @@
   "version": "2.1.1",
   "license": "Apache 2.0",
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "dev": "gatsby develop -H 0.0.0.0",
     "dev:clean": "gatsby clean && gatsby develop -H 0.0.0.0",
     "build": "gatsby build",
