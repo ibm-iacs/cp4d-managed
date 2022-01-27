@@ -3,7 +3,7 @@ import { HomepageBanner, HomepageCallout } from 'gatsby-theme-carbon';
 import HomepageTemplate from 'gatsby-theme-carbon/src/templates/Homepage';
 import { calloutLink } from './Homepage.module.scss';
 
-import Carbon from './carbon.jpg';
+import Carbon from './carbon2.jpg';
 
 const FirstLeftText = () => <p>IBM Cloud Service</p>;
 
