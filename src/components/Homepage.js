@@ -5,11 +5,11 @@ import { calloutLink } from './Homepage.module.scss';
 
 import Carbon from './carbon2.jpg';
 
-const FirstLeftText = () => <p>IBM Cloud Service</p>;
+const FirstLeftText = () => <p>Management for Cloud Pak for Data on AWS</p>;
 
 const FirstRightText = () => (
   <p>
-    The Cloud Service delivers Fully Managed offerings in which IBM will provide and manage the infrastructure (network, storage, and compute resources), apply fixes to the Software, and maintain the Software, infrastructure, and applicable security and privacy controls in support of Client’s Cloud Pak for Data production and/or non-production workload.{' '}
+    We take care of the day-to-day operations and allow you to focus on the core business.
     <a href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
 
     </a>
