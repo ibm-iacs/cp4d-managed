@@ -9,7 +9,7 @@
 > speaking the IBM Design Language with Carbon as soon as possible. It includes
 > some sample components/content demos in the `src/pages` directory.
 
-## How do I use it ?
+## How do I use it?
 
 Check out our quick
 [getting started](https://gatsby-theme-carbon.now.sh/getting-started) guide and
