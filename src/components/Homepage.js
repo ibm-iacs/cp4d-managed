@@ -9,7 +9,7 @@ const FirstLeftText = () => <p>Management for Cloud Pak for Data on AWS</p>;
 
 const FirstRightText = () => (
   <p>
-    We take care of the day-to-day operations and allow you to focus on the core business.
+    We take care of the day-to-day operations and allow you to focus on the core business.<br>
     <a href="https://github.com/carbon-design-system/gatsby-theme-carbon/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
 
     </a>
