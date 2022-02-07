@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-getting-started-about-us-mdx",
+    "path": "/Getting started/About us/",
+    "result": {"pageContext":{"frontmatter":{"description":"Getting Started / About Us","title":"Getting Started / About Us"},"relativePagePath":"/Getting started/About us.mdx","titleType":"page","MdxNode":{"id":"fa9193ba-ae3f-5efe-92bc-2037b5c420b2","children":[],"parent":"316d7d11-1e33-5595-8b43-2344a1bc5459","internal":{"content":"About us\n","type":"Mdx","contentDigest":"3a1ff76eee4cbcdd40ea2031f7893b07","owner":"gatsby-plugin-mdx","counter":10008},"frontmatter":{"description":"Getting Started / About Us","title":"Getting Started / About Us"},"exports":{},"rawBody":"About us\n","fileAbsolutePath":"/Users/kanimozhin/Documents/Github/cp4d-managed/src/pages/Getting started/About us.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
