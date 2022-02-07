@@ -20,16 +20,16 @@ first tab. This is the structure of the YAML configuration for this page and
 it’s siblings.
 
 ```yaml
-- title: Guides
+- title: guides_1
   pages:
     - title: Configuration
-      path: /guides/configuration
+      path: /guides_1/configuration
     - title: Shadowing
-      path: /guides/shadowing
+      path: /guides_1/shadowing
     - title: Styling
-      path: /guides/styling
+      path: /guides_1/styling
     - title: Navigation
-      path: /guides/navigation/sidebar
+      path: /guides_1/navigation/sidebar
 ```
 
 ## File structure
@@ -39,7 +39,7 @@ another directory that corresponds with the one in the YAML file.
 
     .
     ├── pages
-    │   └── guides
+    │   └── guides_1
     │       ├── configuration.mdx
     │       ├── shadowing.mdx
     │       ├── styling.mdx
@@ -73,4 +73,4 @@ tabs: ['Sidebar', "What’s new"]
 ```
 
 For the _"What’s new"_ tab above, the source file would be `whats-new.mdx`, and
-the path would look like `/guides/navigation/whats-new`.
+the path would look like `/guides_1/navigation/whats-new`.
