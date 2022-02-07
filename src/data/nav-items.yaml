@@ -1,9 +1,9 @@
 - title: Getting started
   pages:
     - path: /getting-started
-    - title: About us
-      pages:
-        - path: /About us
+- title: About us
+  pages:
+    - path: /About us
 - title: Demo
   pages:
     - path: /demo
@@ -13,6 +13,9 @@
 - title: Gallery
   pages:
     - path: /gallery
+- title: Gallery_1
+  pages:
+    - path: /Gallery_1
 - title: Contributions
   pages:
     - path: /contributions
