@@ -15,7 +15,7 @@
     - path: /gallery
 - title: Gallery_1
   pages:
-    - path: /Gallery_1
+    - path: /gallery_1
 - title: Contributions
   pages:
     - path: /contributions
