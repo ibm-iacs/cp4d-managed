@@ -24,7 +24,7 @@ module.exports = {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://github.com/carbon-design-system/gatsby-theme-carbon',
+            'https://github.com/ibm-iacs/cp4d-managed',
           subDirectory: '/packages/example',
         },
       },

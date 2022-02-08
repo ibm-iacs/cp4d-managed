@@ -4,15 +4,23 @@ import ResourceLinks from 'gatsby-theme-carbon/src/components/LeftNav/ResourceLi
 const links = [
   {
     title: 'Github',
-    href: 'https://github.com/carbon-design-system/gatsby-theme-carbon',
+    href: 'https://github.com/ibm-iacs/cp4d-managed',
   },
   {
-    title: 'Carbon',
-    href: 'https://www.carbondesignsystem.com',
+    title: 'Training',
+    href: 'https://www.ibm.com/products/expertlabs/training',
   },
   {
-    title: 'Configuration guide',
-    href: '/guides/configuration',
+    title: 'Managed Services',
+    href: 'https://www.ibm.com/products/expertlabs/managed-services',
+  },
+  {
+    title: 'Cloud Expert Services',
+    href: 'https://www.ibm.com/analytics/globalelite/ibm-analytics-and-cloud-expert-services',
+  },
+  {
+    title: 'Contact Us',
+    href: 'https://www.ibm.com/it-infrastructure/us-en/resources/campaignmail/mail/Data-and-AI-Expert-Labs/',
   },
 ];
 
