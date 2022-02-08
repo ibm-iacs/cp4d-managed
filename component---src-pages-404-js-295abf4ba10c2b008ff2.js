@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkexample=self.webpackChunkexample||[]).push([[8883],{9616:function(e,t,n){n.r(t);var o=n(7294),m=n(7426),r=[{href:"/components/markdown",text:"Markdown"},{href:"/components/Aside",text:"Aside"},{href:"/components/demo",text:"Demo"},{href:"/components/demo_mohita",text:"Demo_mohita"}];t.default=function(){return o.createElement(m.e9,{links:r})}}}]);
+//# sourceMappingURL=component---src-pages-404-js-295abf4ba10c2b008ff2.js.map
