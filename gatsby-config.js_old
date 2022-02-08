@@ -25,7 +25,7 @@ module.exports = {
         repository: {
           baseUrl:
             'https://github.com/ibm-iacs/cp4d-managed',
-          subDirectory: '/packages/example',
+          subDirectory: '/',
         },
       },
     },

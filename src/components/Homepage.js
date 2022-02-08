@@ -11,7 +11,7 @@ const FirstRightText = () => (
   <p>
     We take care of the day-to-day operations and allow you to focus on the core business.
     
-    <a href="https://github.com/ibm-iacs/cp4d-managed/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
+    <a href="https://github.com/ibm-iacs/cp4d-managed/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79//src/gatsby-theme-carbon/templates/Homepage.js">
 
     </a>
     <code>CP4D</code> - <code>Managed</code>{' '}
@@ -31,7 +31,7 @@ const SecondRightText = () => (
     props to the template or writing your own template.
     <a
       className={calloutLink}
-      href="https://github.com/ibm-iacs/cp4d-managed/blob/main/packages/example/src/gatsby-theme-carbon/templates/Homepage.js">
+      href="https://github.com/ibm-iacs/cp4d-managed/blob/main//src/gatsby-theme-carbon/templates/Homepage.js">
       Homepage source →
     </a>
   </p>

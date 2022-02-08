@@ -3,7 +3,13 @@
 #     - path: /Getting started
 - title: About us
   pages:
-    - path: /IEL-About-us
+    - title: Who we are?
+      path: /IEL-About-us#who-we-are
+    - title: How it works?
+      path: /IEL-About-us#how-it-works
+    - title: What we offer?
+      path: /IEL-About-us#what-we-offer
+
 #- title: Demo
 #  pages:
 #    - path: /demo
