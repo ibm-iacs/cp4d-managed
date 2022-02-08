@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Theme Carbon',
+    title: 'IBM Expert Labs',
     description: 'A Gatsby theme for the carbon design system',
     keywords: 'gatsby,theme,carbon',
   },
@@ -11,7 +11,7 @@ module.exports = {
       options: {
         name: 'Carbon Design Gatsby Theme',
         icon: 'src/images/favicon.svg',
-        short_name: 'Gatsby Theme Carbon',
+        short_name: 'IBM Expert Labs',
         start_url: '/',
         background_color: '#ffffff',
         theme_color: '#161616',

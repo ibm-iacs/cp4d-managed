@@ -1,4 +1,4 @@
-# Gatsby Theme Carbon Starter
+# IBM Expert Labs Starter
 
 ## What is this?
 
