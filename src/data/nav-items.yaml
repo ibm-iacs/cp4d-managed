@@ -10,6 +10,78 @@
     - title: What we offer?
       path: /IEL-About-us#what-we-offer
 
+- title: IACS-Offerings
+  pages:
+    - title: CP4D - IBM CLOUD
+      path: /IACS-Offering/cloud-pak-for-data-on-ibm-cloud
+    - title: CP4D - AWS
+      path: /IACS-Offering/cloud-pak-for-data-on-aws
+    - title: CP4D - Azure
+      path: /IACS-Offering/cloud-pak-for-data-on-azure
+
+- title: Shared responsibility Model
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
+- title: Runbooks
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
+- title: Backup & Restore
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
+- title: Access Management
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
+- title: Security and Compliance
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
+- title: Patching and Upgrading
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
+- title: Disaster Recovery
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
+- title: Additional Resources and FAQ
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
+- title: How to get Support
+  pages:
+    - title: CLOUD PAK FOR DATA
+      path: /guides/MDX
+    - title: MDM
+      path: /guides/configuration
+
 #- title: Demo
 #  pages:
 #    - path: /demo

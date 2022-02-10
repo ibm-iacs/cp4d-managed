@@ -5,34 +5,33 @@ import { calloutLink } from './Homepage.module.scss';
 
 import Carbon from './carbon2.jpg';
 
-const FirstLeftText = () => <p>Management for Cloud Pak for Data on AWS</p>;
+const FirstLeftText = () => <p>IBM Managed Service</p>;
 
 const FirstRightText = () => (
   <p>
     We take care of the day-to-day operations and allow you to focus on the core business.
-    
+
     <a href="https://github.com/ibm-iacs/cp4d-managed/blob/5fe12de31bb19fbfa2cab7c69cd942f55aa06f79//src/gatsby-theme-carbon/templates/Homepage.js">
 
     </a>
-    <code>CP4D</code> - <code>Managed</code>{' '}
     <a
       className={calloutLink}
-      href="https://github.com/ibm-iacs/cp4d-managed/">
-      Homepage source →
+      href="/cp4d-managed/IEL-About-us">
+      About US →
     </a>
   </p>
 );
 
-const SecondLeftText = () => <p>Callout component</p>;
+const SecondLeftText = () => <p>We deliver peace of mind</p>;
 
 const SecondRightText = () => (
   <p>
-    You can also not use these components at all by not providing the callout
-    props to the template or writing your own template.
+  Bring the hands-on skills and deep expertise of IBM Essential Management
+  to your business, when and where you need it.
     <a
       className={calloutLink}
-      href="https://github.com/ibm-iacs/cp4d-managed/blob/main//src/gatsby-theme-carbon/templates/Homepage.js">
-      Homepage source →
+      href="/cp4d-managed/IACS-Offering">
+      Checkout our offerings →
     </a>
   </p>
 );

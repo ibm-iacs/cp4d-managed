@@ -4,20 +4,17 @@ import Footer from 'gatsby-theme-carbon/src/components/Footer';
 const Content = ({ buildTime }) => (
   <>
     <p>
-      The <code>Content</code> component receives a <code>buildTime</code> prop
-      that to display your site's build time: {buildTime}
+      The <code>last buildTime</code> : {buildTime}
     </p>
     <p>
-      By importing the <strong>Footer</strong> component from
-      gatsby-theme-carbon, we can supply our own props.
+       <strong>IBM Expert Labs - Managed Services</strong>
     </p>
     <p>
-      The default export from a shadowed component will replace that component
-      in the theme.
+      Any issues with this webpage, Please contact : mohit.arora@in.ibm.com ( Need to update with generic email-id)
     </p>
     <p>
-      <a href="https://www.gatsbyjs.org/docs/themes/api-reference/#component-shadowing">
-        More about component shadowing
+      <a href="https://www.ibm.com/products/expertlabs">
+        IBM Expert Labs
       </a>
     </p>
   </>
@@ -25,15 +22,15 @@ const Content = ({ buildTime }) => (
 
 const links = {
   firstCol: [
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+    { href: 'https://www.ibm.com/products/expertlabs/cloud-integration', linkText: 'IBM Cloud Integration Expert Labs' },
+    { href: 'https://www.ibm.com/products/expertlabs/trustworthy-ai', linkText: 'Trustworthy AI' },
+    { href: 'https://www.ibm.com/products/expertlabs/technical-account-management', linkText: 'Technical account management' },
   ],
   secondCol: [
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+    { href: 'https://www.ibm.com/products/expertlabs/managed-services', linkText: 'Managed Services' },
+    { href: '/cp4d-managed/IEL-About-us', linkText: 'About Us' },
+    { href: 'https://www.ibm.com/in-en/products/cloud-pak-for-data', linkText: 'IBM Cloud Pak for Data' },
+    { href: 'https://www.ibm.com/it-infrastructure/us-en/resources/campaignmail/mail/Data-and-AI-Expert-Labs/', linkText: 'Contact an Expert' },
   ],
 };
 
