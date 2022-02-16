@@ -10,7 +10,8 @@ const Content = ({ buildTime }) => (
        <strong>IBM Expert Labs - Managed Services</strong>
     </p>
     <p>
-      Any issues with this webpage, Please contact : mohit.arora@in.ibm.com ( Need to update with generic email-id)
+      Any issues with this webpage,
+      Please contact : mohit.arora@in.ibm.com(TO BE UPDATED)
     </p>
     <p>
       <a href="https://www.ibm.com/products/expertlabs">

@@ -70,10 +70,8 @@
 
 - title: Additional Resources and FAQ
   pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+    - title: FAQ
+      path: /faq/faq
 
 - title: How to get Support
   pages:
@@ -85,10 +83,10 @@
 #- title: Demo
 #  pages:
 #    - path: /demo
-- title: Demo_mohita
+- title: FAQ
   pages:
-    - title: JustAPlaceHolder
-      path: /demo_mohita
+    - path: /faq/faq
+
 - title: Guides
   pages:
     - title: Authoring MDX
