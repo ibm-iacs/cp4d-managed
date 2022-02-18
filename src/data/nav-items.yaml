@@ -21,12 +21,10 @@
     # - title: CP4D - Azure
     #   path: /IACS-Offering/cloud-pak-for-data-on-azure
 
-# - title: Shared responsibility Model
-#   pages:
-#     - title: CLOUD PAK FOR DATA
-#       path: /guides/MDX
-#     - title: MDM
-#       path: /guides/configuration
+- title: Shared responsibility Model
+  pages:
+    - title: Shared Responsibility Model
+      path: /share-response-model
 
 # - title: Runbooks
 #   pages:
@@ -44,38 +42,33 @@
 
 - title: Backup & Restore
   pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+    - title: CPD Backup/Restore
+      path: /CPD-backup-restore
 
 - title: Access Management
   pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+    - title: Access Management
+      path: /access-management
 
 - title: Security and Compliance
   pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+    - title: Security and Compliance
+      path: security-compliance
+
+- title: Networking
+  pages:
+    - title: Networking
+      path: networking
 
 - title: Patching and Upgrading
   pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+    - title: Patching and Upgrading
+      path: patching-upgrading
 
 - title: Disaster Recovery
   pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+    - title: Disaster Recovery
+      path: /disaster-recovery
 
 - title: Additional Resources and FAQ
   pages:
@@ -84,10 +77,8 @@
 
 - title: How to get Support
   pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+    - title: How to get Support
+      path: /how-to-get-support
 
 #- title: Demo
 #  pages:
@@ -96,12 +87,12 @@
   pages:
     - path: /faq/faq
 
-- title: Guides
-  pages:
-    - title: Authoring MDX
-      path: /guides/MDX
-    - title: Configuration
-      path: /guides/configuration
+# - title: Guides
+#   pages:
+#     - title: Authoring MDX
+#       path: /guides/MDX
+#     - title: Configuration
+#       path: /guides/configuration
 
 # - title: Gallery
 #   pages:

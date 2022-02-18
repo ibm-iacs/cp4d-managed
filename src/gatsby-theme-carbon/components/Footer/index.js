@@ -7,6 +7,11 @@ const Content = ({ buildTime }) => (
       The <code>last buildTime</code> : {buildTime}
     </p>
     <p>
+      <a href="https://ibm-iacs.github.io/cp4d-managed/why-dark">
+        Why so dark here?
+      </a>
+    </p>
+    <p>
        <strong>IBM Expert Labs - Managed Services</strong>
     </p>
     <p>
