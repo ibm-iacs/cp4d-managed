@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-hot-to-get-support-index-mdx",
-    "path": "/hot-to-get-support/",
-    "result": {"pageContext":{"frontmatter":{"title":"How to get Support","description":"How to get Support"},"relativePagePath":"/hot-to-get-support/index.mdx","titleType":"page","MdxNode":{"id":"ed1f2f60-8a5e-5d1b-b675-60ed1a055933","children":[],"parent":"7d0f56d8-6308-5246-bbfe-df985ada6ec2","internal":{"content":"---\ntitle: How to get Support\ndescription: How to get Support\n---\n\n- TO BE UPDATED -\n","type":"Mdx","contentDigest":"a3953024db6d36079700aaf1b4b5e26b","owner":"gatsby-plugin-mdx","counter":1349},"frontmatter":{"title":"How to get Support","description":"How to get Support"},"exports":{},"rawBody":"---\ntitle: How to get Support\ndescription: How to get Support\n---\n\n- TO BE UPDATED -\n","fileAbsolutePath":"/Users/mohit/Documents/cp4d-managed/src/pages/hot-to-get-support/index.mdx"}}},
-    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
