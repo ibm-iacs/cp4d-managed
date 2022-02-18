@@ -3,35 +3,44 @@
 #     - path: /Getting started
 - title: About us
   pages:
-    - title: Who we are?
-      path: /IEL-About-us#who-we-are
-    - title: How it works?
-      path: /IEL-About-us#how-it-works
-    - title: What we offer?
-      path: /IEL-About-us#what-we-offer
+    - title: About US
+      path: /IEL-About-us
+    # - title: Who we are?
+    #   path: /IEL-About-us#who-we-are
+    # - title: How it works?
+    #   path: /IEL-About-us#how-it-works
+    # - title: What we offer?
+    #   path: /IEL-About-us#what-we-offer
 
 - title: IACS-Offerings
   pages:
-    - title: CP4D - IBM CLOUD
-      path: /IACS-Offering/cloud-pak-for-data-on-ibm-cloud
+    # - title: CP4D - IBM CLOUD
+    #   path: /IACS-Offering/cloud-pak-for-data-on-ibm-cloud
     - title: CP4D - AWS
-      path: /IACS-Offering/cloud-pak-for-data-on-aws
-    - title: CP4D - Azure
-      path: /IACS-Offering/cloud-pak-for-data-on-azure
+      path: /IACS-Offering/cloud-pak-for-data-on-aws-standalone
+    # - title: CP4D - Azure
+    #   path: /IACS-Offering/cloud-pak-for-data-on-azure
 
-- title: Shared responsibility Model
-  pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+# - title: Shared responsibility Model
+#   pages:
+#     - title: CLOUD PAK FOR DATA
+#       path: /guides/MDX
+#     - title: MDM
+#       path: /guides/configuration
 
-- title: Runbooks
+# - title: Runbooks
+#   pages:
+#     - title: CLOUD PAK FOR DATA
+#       path: /guides/MDX
+#     - title: MDM
+#       path: /guides/configuration
+
+- title: Monitoring
   pages:
-    - title: CLOUD PAK FOR DATA
-      path: /guides/MDX
-    - title: MDM
-      path: /guides/configuration
+    # - title: CP4D - IBM CLOUD
+    #   path: /IACS-Offering/cloud-pak-for-data-on-ibm-cloud
+    - title: ROSA/CP4D Monitoring
+      path: /IACS-Monitoring/rosa-cp4d-monitoring
 
 - title: Backup & Restore
   pages:
