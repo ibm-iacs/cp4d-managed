@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-security-compliance-index-mdx",
+    "path": "/security-compliance/",
+    "result": {"pageContext":{"frontmatter":{"title":"Security and Compliance","description":"Security and Compliance"},"relativePagePath":"/security-compliance/index.mdx","titleType":"page","MdxNode":{"id":"18e1aedd-ebfd-5be6-a9eb-68329d924c62","children":[],"parent":"7fc5a85d-ac9b-5c40-ae23-487363d9f804","internal":{"content":"---\ntitle: Security and Compliance\ndescription: Security and Compliance\n---\n\n- TO BE UPDATED -\n","type":"Mdx","contentDigest":"ca3bb34c589fc50009b8b6246f068277","owner":"gatsby-plugin-mdx","counter":1346},"frontmatter":{"title":"Security and Compliance","description":"Security and Compliance"},"exports":{},"rawBody":"---\ntitle: Security and Compliance\ndescription: Security and Compliance\n---\n\n- TO BE UPDATED -\n","fileAbsolutePath":"/Users/mohit/Documents/cp4d-managed/src/pages/security-compliance/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}

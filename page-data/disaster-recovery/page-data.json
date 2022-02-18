@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-disaster-recovery-index-mdx",
+    "path": "/disaster-recovery/",
+    "result": {"pageContext":{"frontmatter":{"title":"Disaster Recovery","description":"Disaster Recovery"},"relativePagePath":"/disaster-recovery/index.mdx","titleType":"page","MdxNode":{"id":"8238896a-57d3-5e26-b83f-dc17d73c031c","children":[],"parent":"4f0c0748-b604-5e83-9943-6d0d703787a0","internal":{"content":"---\ntitle: Disaster Recovery\ndescription: Disaster Recovery\n---\n\n- TO BE UPDATED -\n","type":"Mdx","contentDigest":"bd7c1a55e2962d3645a3d0d11647b9cf","owner":"gatsby-plugin-mdx","counter":1350},"frontmatter":{"title":"Disaster Recovery","description":"Disaster Recovery"},"exports":{},"rawBody":"---\ntitle: Disaster Recovery\ndescription: Disaster Recovery\n---\n\n- TO BE UPDATED -\n","fileAbsolutePath":"/Users/mohit/Documents/cp4d-managed/src/pages/disaster-recovery/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}

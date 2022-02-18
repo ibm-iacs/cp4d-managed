@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-patching-upgrading-index-mdx",
+    "path": "/patching-upgrading/",
+    "result": {"pageContext":{"frontmatter":{"title":"Patching & Upgrading","description":"How to access the cluster"},"relativePagePath":"/patching-upgrading/index.mdx","titleType":"page","MdxNode":{"id":"15f55419-d70d-523d-a2a6-5636a9b1e89b","children":[],"parent":"798e16aa-e928-54dc-a000-28b464063ae4","internal":{"content":"---\ntitle: Patching & Upgrading\ndescription: How to access the cluster\n---\n\n- TO BE UPDATED -\n","type":"Mdx","contentDigest":"8256481a8957adecfbd2573dca57a507","owner":"gatsby-plugin-mdx","counter":1347},"frontmatter":{"title":"Patching & Upgrading","description":"How to access the cluster"},"exports":{},"rawBody":"---\ntitle: Patching & Upgrading\ndescription: How to access the cluster\n---\n\n- TO BE UPDATED -\n","fileAbsolutePath":"/Users/mohit/Documents/cp4d-managed/src/pages/patching-upgrading/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
