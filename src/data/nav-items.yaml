@@ -53,17 +53,17 @@
 - title: Security and Compliance
   pages:
     - title: Security and Compliance
-      path: security-compliance
+      path: /security-compliance
 
 - title: Networking
   pages:
     - title: Networking
-      path: networking
+      path: /networking
 
 - title: Patching and Upgrading
   pages:
     - title: Patching and Upgrading
-      path: patching-upgrading
+      path: /patching-upgrading
 
 - title: Disaster Recovery
   pages:
