@@ -70,22 +70,21 @@
     - title: Disaster Recovery
       path: /disaster-recovery
 
-- title: Additional Resources and FAQ
-  pages:
-    - title: FAQ
-      path: /faq/faq
-
 - title: How to get Support
   pages:
     - title: How to get Support
       path: /how-to-get-support
 
+- title: Additional Resources and FAQ
+  pages:
+    - title: FAQ
+      path: /faq/faq
 #- title: Demo
 #  pages:
 #    - path: /demo
-- title: FAQ
-  pages:
-    - path: /faq/faq
+# - title: FAQ
+#   pages:
+#     - path: /faq/faq
 
 # - title: Guides
 #   pages:
