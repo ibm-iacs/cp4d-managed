@@ -1,10 +1,7 @@
 # - title: Getting started
 #   pages:
 #     - path: /Getting started
-- title: About us
-  pages:
-    - title: About US
-      path: /IEL-About-us
+
     # - title: Who we are?
     #   path: /IEL-About-us#who-we-are
     # - title: How it works?
@@ -12,11 +9,11 @@
     # - title: What we offer?
     #   path: /IEL-About-us#what-we-offer
 
-- title: IACS-Offerings
+- title: Introduction
   pages:
     # - title: CP4D - IBM CLOUD
     #   path: /IACS-Offering/cloud-pak-for-data-on-ibm-cloud
-    - title: CP4D - AWS
+    - title: Introduction
       path: /IACS-Offering/cloud-pak-for-data-on-aws-standalone
     # - title: CP4D - Azure
     #   path: /IACS-Offering/cloud-pak-for-data-on-azure
@@ -70,15 +67,27 @@
     - title: Disaster Recovery
       path: /disaster-recovery
 
-- title: How to get Support
+# - title: How to get Support
+#   pages:
+#     - title: How to get Support
+#       path: /how-to-get-support
+
+
+- title: Support and Entitlement
   pages:
-    - title: How to get Support
-      path: /how-to-get-support
+    - title: Support and Entitlement
+      path: /support-and-entitlement
+
 
 - title: Additional Resources and FAQ
   pages:
     - title: FAQ
       path: /faq/faq
+
+- title: About us
+  pages:
+    - title: About US
+      path: /IEL-About-us
 #- title: Demo
 #  pages:
 #    - path: /demo

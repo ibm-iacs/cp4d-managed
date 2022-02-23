@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'IBM Expert Labs',
-    description: 'A Gatsby theme for the carbon design system',
+    description: 'Industry professionals helping you succeed with IBM.',
     keywords: 'gatsby,theme,carbon',
   },
   pathPrefix: "/cp4d-managed",
