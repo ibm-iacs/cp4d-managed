@@ -30,7 +30,7 @@ const SecondRightText = () => (
   to your business, when and where you need it.
     <a
       className={calloutLink}
-      href="/cp4d-managed/IACS-Offering">
+      href="/cp4d-managed/IACS-Offering/cloud-pak-for-data-on-aws-standalone">
       Checkout our offerings →
     </a>
   </p>

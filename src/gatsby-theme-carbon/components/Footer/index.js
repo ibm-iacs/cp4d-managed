@@ -28,7 +28,7 @@ const Content = ({ buildTime }) => (
 
 const links = {
   firstCol: [
-    { href: 'https://www.ibm.com/products/expertlabs/cloud-integration', linkText: 'IBM Cloud Integration Expert Labs' },
+    { href: 'https://www.ibm.com/support/pages/node/6204108', linkText: 'IBM Support Advantages' },
     { href: 'https://www.ibm.com/products/expertlabs/trustworthy-ai', linkText: 'Trustworthy AI' },
     { href: 'https://www.ibm.com/products/expertlabs/technical-account-management', linkText: 'Technical account management' },
   ],
