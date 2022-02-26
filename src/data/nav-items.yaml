@@ -35,7 +35,7 @@
     # - title: CP4D - IBM CLOUD
     #   path: /IACS-Offering/cloud-pak-for-data-on-ibm-cloud
     - title: ROSA/CP4D Monitoring
-      path: /IACS-Monitoring/rosa-cp4d-monitoring
+      path: /IACS-Monitoring
 
 - title: Backup & Restore
   pages:
