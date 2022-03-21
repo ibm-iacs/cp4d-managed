@@ -89,10 +89,10 @@
     - title: About US
       path: /IEL-About-us
 
-- title: Contribute to this documentation
-  pages:
-    - title: Contribute to this documentation
-      path: /Contribute-to-this-documentation
+# - title: Contribute to this documentation
+#   pages:
+#     - title: Contribute to this documentation
+#       path: /Contribute-to-this-documentation
 
 #- title: Demo
 #  pages:

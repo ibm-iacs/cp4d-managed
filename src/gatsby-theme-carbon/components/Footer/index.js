@@ -16,7 +16,7 @@ const Content = ({ buildTime }) => (
     </p>
     <p>
       Any issues with this webpage,
-      Please contact : mohit.arora@in.ibm.com(TO BE UPDATED)
+      Please contact : IBM_SERVICE_EMAIL_ID (TO BE UPDATED)
     </p>
     <p>
       <a href="https://www.ibm.com/products/expertlabs">
